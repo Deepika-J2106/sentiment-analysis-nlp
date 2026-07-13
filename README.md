@@ -34,7 +34,6 @@ sentiment-analysis-nlp/
     ├── review_length_dist.png            ← EDA: review length by sentiment
     ├── top_words_by_sentiment.png        ← Top 15 words per sentiment class
     └── confusion_matrix_lr.png           ← Logistic Regression confusion matrix
-
 ---
 
 ## 🔍 Approach
